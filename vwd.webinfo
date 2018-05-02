@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.microsoft.office.interop.outlook" ID="{00062FFF-0000-0000-C000-000000000046}\9.6\0"/>
+    <reference Name="interop.microsoft.office.core" ID="{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}\2.8\0"/>
+    <reference Name="interop.activexlib" ID="{012F24C1-35B0-11D0-BF2D-0000E8D0D146}\1.0\0"/>
+  </comReferences>
+</VisualWebDeveloper>
